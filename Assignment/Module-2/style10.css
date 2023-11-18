@@ -1,0 +1,119 @@
+h1 {
+    background-image: linear-gradient(aqua, rgb(32, 133, 133), rgb(92, 114, 114));
+    width: 100%;
+    text-align: center;
+    color: red;
+}
+
+h2 {
+    color: red;
+    font-weight: 8px;
+    padding: 30px 0 0 10px;
+}
+
+section {
+    background-color: aqua;
+}
+
+.user1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.userdetail {
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 300px;
+}
+
+.userdetail input,
+label {
+    border-color: blue;
+    color: blue;
+    font-weight: bold;
+}
+
+.user2 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 300px;
+}
+
+.userdetail1 {
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 300px;
+
+}
+
+.userdetail2 {
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 300px;
+    position: absolute;
+    left: 900px;
+    bottom: 140px;
+}
+
+#a {
+    margin: 0 0 143px 0;
+}
+
+#b {
+    margin: 0 0 110px 0;
+}
+
+#c {
+    margin: 0 0 75px 0;
+}
+
+#d {
+    margin: 0 0 35px 0;
+}
+
+.user3 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 300px;
+}
+
+.userdetail3 {
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 300px;
+
+}
+
+.userdetail4 {
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 300px;
+    position: absolute;
+    left: 900px;
+    bottom: 50px;
+}
+
+.btn {
+    text-align: center;
+}
+
+p {
+    padding: 30px 0 0 10px;
+}
+
+#btnclr {
+    background-color: rgb(14, 129, 237);
+    color: white    ;
+}

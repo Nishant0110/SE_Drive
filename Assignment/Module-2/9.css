@@ -1,0 +1,13 @@
+.external-css {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #007BFF;
+}
+
+p {
+    font-size: 18px;
+}
